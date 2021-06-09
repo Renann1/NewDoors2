@@ -18,8 +18,7 @@
 * Robson [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/RobsonCostaRbn)](https://github.com/RobsonCostaRbn)
 * Ed Wander [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Edy940)](https://github.com/Edy940)
 * Tiago [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/tiagoarasi)](https://github.com/tiagoarasi)
-* Lucas
-
+* Lucas [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/imLuc4s)](https://github.com/imLuc4s)
 
 # Dameiro (Project)
 [Dameiro](http://dameiro-com-br.preview-domain.com/)
