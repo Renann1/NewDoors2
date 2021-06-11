@@ -21,4 +21,4 @@
 * Lucas [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/imLuc4s)](https://github.com/imLuc4s)
 
 # Dameiro (Project)
-[Dameiro](http://dameiro-com-br.preview-domain.com/)
+[Dameiro](http://dameiro.xyz/)
